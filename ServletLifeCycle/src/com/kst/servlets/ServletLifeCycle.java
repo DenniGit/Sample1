@@ -15,7 +15,7 @@ import javax.servlet.ServletResponse;
 	{
 		public void init(ServletConfig config) 
 		{
-			System.out.println("In init method");
+			System.out.println("This is Mike");
 		}
 
 		public void service(ServletRequest req, ServletResponse resp) throws ServletException,IOException 
